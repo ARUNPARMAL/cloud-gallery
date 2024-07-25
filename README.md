@@ -28,4 +28,9 @@ Check out the [post](https://testdriven.io/blog/storing-django-static-and-media-
 8. go to security group associated with this ec2 instance > edit inbound rules> allow custom tcp port 1337
 
 9. go to web browser and search for http://ec2-instanceip:1337
+    
+## Here is architectural diagram for full deployment 
+
+![Screenshot 2024-07-21 082338](https://github.com/user-attachments/assets/6547812d-4fdb-4382-ad9e-a53212cb1274)
+
 
